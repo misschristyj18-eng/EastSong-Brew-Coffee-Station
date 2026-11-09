@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">EastSong Brew Coffee Station</title>
+  <desc id="desc">A warm coffee cup on a dark green background</desc>
+  <circle cx="256" cy="256" r="248" fill="#1F4B3E"/>
+  <circle cx="256" cy="256" r="218" fill="#EEE3DD"/>
+  <path d="M150 205h185v120a72 72 0 0 1-72 72h-41a72 72 0 0 1-72-72V205Z" fill="#C2652E"/>
+  <path d="M335 225h25a42 42 0 0 1 0 84h-25" fill="none" stroke="#C2652E" stroke-width="24"/>
+  <path d="M190 170c-18-22 18-31 0-54m61 54c-18-22 18-31 0-54m61 54c-18-22 18-31 0-54" fill="none" stroke="#1F4B3E" stroke-width="13" stroke-linecap="round"/>
+  <path d="M125 420h262" stroke="#1F4B3E" stroke-width="16" stroke-linecap="round"/>
+</svg>
